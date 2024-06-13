@@ -1,0 +1,13 @@
+{
+    "salut":"안녕m", "bonjour":"낮 인사m", "très":"매우", "ça":"것", "aller":"가다, 지내다", "je":"나는", "oui":"예", "tu":"너는", "revoir":"다시 보다", "demain":"내일m", "et":"그리고", "merci":"감사m", "comment":"어떻게", "monsieur":"씨m", "madame":"부인f", "vous":"당신, 당신들, 너희들",
+    "à":"에", "bonsoir":"저녁 인사m", "bientôt":"곧", "ci":"이것구어", "comme":"처럼", "nuit":"밤f", "bien":"잘", "mal":"나쁘게", "il":"그는", "elle":"그녀는", "sur":"위에", "nous":"우리는", "nouveau":"새로운", "pas":"발자국, 아니다m", "ils":"그들은", "jour":"하루m", "elles":"그녀들은", "tout":"모든", "heure":"한 시간, 시각f", "plus":"더 많이",
+    "aussi":"또한", "bon":"좋은", "monde":"세상, 사람m", "journée":"하루, 낮 동안f", "soirée":"저녁, 밤f", "tard":"늦게, 나중에",
+    "ce":"이것, 이 사람", "être":"이다", "marocain;e":"모로코인", "maman":"엄마f", "mon":"나의", "appeler":"불리다", "là":"거기", "enchanté":"반갑습니다", "de":"로부터, 의", "parler":"말하다", "ami;e":"친구", "où":"어디", "cousin;e":"사촌", "mais":"그러나", "lycée":"고등학교m", "habiter":"살다", "coréen;ne":"한국인",
+    "français;e":"프랑스인", "anglais;e":"영국인", "livre":"책m", "chinois;e":"중국인", "cahier":"공책m", "américain;e":"미국인", "mère":"어머니f", "restaurant":"음식점m",
+    "secrétaire":"비서, 조수mf", "suisse":"스위스인mf", "non":"아니", "venir":"오다", "japonais;e":"일본인", "allemand;e":"독일인", "belge":"벨기에인mf", "italien;ne":"이탈리아인",
+    "canadien;ne":"캐나다인", "espagnol;e":"스페인인", "nom":"성m", "prénom":"이름m", "nationalité":"국적f", "date":"날짜f", "langue":"언어f", "naissance":"출생f", "lieu":"장소m", "adresse":"주소f", "rue":"거리f", "étudiant;e":"대학생", "travailler":"일하다", "ville":"도시f",
+    "zéro":"0", "un":"1", "deux":"2", "trois":"3", "quatre":"4", "cinq":"5", "six":"6", "sept":"7", "huit":"8", "neuf":"9", "dix":"10",
+    "gâteau":"cake", "café":"coffee", "eau":"water", "bleu":"blue", "fleur":"flower", "père":"father", "bonbon":"candy", "vélo":"bicycle", "dentiste":"dentist", "savon":"soap", "chocolat":"chocolate", "jolie":"pretty", "coq":"rooster", "gomme":"eraser",
+    "blanc":"white", "rouge":"red", "liberté":"liberty", "égalité":"equality", "fraternité":"fraternity",
+    "Séoul":"seoul", "Pékin":"beijing", "Venise":"venice", "Londres":"london", "Québec":"quebec", "Corée":"korea", "Chine":"china", "Italie":"italy", "Allemagne":"germany", "Angleterre":"england", "Japon":"japan"
+}
